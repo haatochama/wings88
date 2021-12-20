@@ -1,0 +1,11 @@
+1. Add image ng staff sa ibabaw ng reviews (why choose us) section 
+-image ng staff nasa loob images folder
+
+2. change image ng  YANGNEOM at SALTED EGG sa flavors section
+resize image to 600x400 pixel   para hindi masira yung format
+
+3. yung find us section hindi maayos yung format
+malaki yung agwat / pagitan ng google maps sa contact details (address, phone, email)
+
+
+
